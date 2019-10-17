@@ -1,0 +1,11 @@
+{
+    "database" : {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "root",
+        "database": "fasttrack",
+        "table_name": "ag_ifsc_codes"
+    },
+    "url" : "https://goo.gl/UryY8j",
+    "file_name": "bank_ifsc.xls"
+}

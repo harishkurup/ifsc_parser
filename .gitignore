@@ -1,0 +1,5 @@
+.~lock.bank_ifsc.xls#
+*.xls
+node_modules/
+package-lock.json
+
